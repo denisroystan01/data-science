@@ -1,0 +1,9 @@
+item {
+    id: 1
+    name: 'eye_closed'
+}
+
+item {
+    id: 2
+    name: 'eye_opened'
+}
